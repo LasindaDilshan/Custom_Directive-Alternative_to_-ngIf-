@@ -1,4 +1,6 @@
 # CustomDirective
+In this code, we will see how to create a custom structural directive in angular.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 

@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'CustomDirective';
+  isAvalable= true;
+  changeIsAvailable()
+  {
+    this.isAvalable = !this.isAvalable;
+    console.log("is available : ",this.isAvalable)
+  }
 }
