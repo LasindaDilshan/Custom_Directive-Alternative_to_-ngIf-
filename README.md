@@ -1,6 +1,7 @@
 # Custom Directive
 In this code, we will see how to create a custom structural directive in angular.
 
+![Uploading image.png…]()
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
