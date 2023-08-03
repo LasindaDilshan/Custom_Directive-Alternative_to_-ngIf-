@@ -3,6 +3,8 @@ In this code, we will see how to create a custom structural directive in angular
 
 ![image](https://github.com/LasindaDilshan/CustomDirective/assets/32431966/b36ecd66-b80f-441e-b29f-4c780e5db4e5)
 
+As you can see *appAlternativeIF Directive behaves like *ngIf.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
 ## Development server
